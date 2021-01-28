@@ -1,0 +1,12 @@
+
+1. Open Powershell
+2. cd to starter-academic directory
+3. Make changes in content\home
+4. run: hugo server to view on localhost:1313
+5. run: hugo to build site in public folder.
+6. Copy contents from public to github folder.
+
+If hugo outdated: update using scoop: (scoop update hugo-extended)
+If wowchecmy outdated: clear cache and update: hugo mod get -u ./...
+
+https://wowchemy.com/docs/update/
